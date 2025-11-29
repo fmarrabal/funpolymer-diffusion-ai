@@ -1,0 +1,38 @@
+# FUNPOLYMER Deep Learning Requirements
+# ======================================
+
+# Core deep learning
+torch>=1.9.0
+numpy>=1.19.0
+
+# Scientific computing
+scipy>=1.7.0
+
+# Visualization
+matplotlib>=3.4.0
+
+# Utilities
+tqdm>=4.60.0
+
+# Optional: ONNX export
+onnx>=1.10.0
+
+# Optional: Jupyter notebooks
+jupyter>=1.0.0
+ipywidgets>=7.6.0
+
+# Optional: NVIDIA Jetson deployment (install via JetPack SDK)
+# tensorrt
+# pycuda
+
+# Optional: REST API server
+flask>=2.0.0
+
+# Development
+pytest>=6.0.0
+black>=21.0
+flake8>=3.9.0
+
+# Documentation
+sphinx>=4.0.0
+sphinx-rtd-theme>=0.5.0
