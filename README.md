@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/nmrmbc/funpolymer-diffusion-ai/blob/main/LICENSE">
+  <a href="https://github.com/fmarrabal/funpolymer-diffusion-ai/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
   </a>
   <a href="https://www.python.org/downloads/">
@@ -74,7 +74,7 @@ Output (1024 D-bins)
 
 ```bash
 # Clone repository
-git clone https://github.com/nmrmbc/funpolymer-diffusion-ai.git
+git clone https://github.com/fmarrabal/funpolymer-diffusion-ai.git
 cd funpolymer-diffusion-ai
 
 # Create virtual environment (recommended)
@@ -274,29 +274,44 @@ If you use this software in your research, please cite:
 
 ```bibtex
 @software{funpolymer_diffusion_ai,
-  author = {NMRMBC Research Group},
+  author = {Arrabal-Campos, Francisco M. and Fernández, Ignacio},
   title = {FUNPOLYMER: Deep Learning for NMR Diffusion Coefficient Estimation},
-  year = {2024},
+  year = {2025},
   institution = {Universidad de Almería},
-  url = {https://github.com/nmrmbc/funpolymer-diffusion-ai}
+  url = {https://github.com/fmarrabal/funpolymer-diffusion-ai}
 }
 ```
 
-And the related publications:
+### Related Publications
+
+Please also cite the following related works:
 
 ```bibtex
-@article{fernandez2016beta,
-  title = {Universal calibration curves for diffusion NMR},
-  author = {Fernández de las Nieves, I. and Arrabal-Campos, F.M.},
-  journal = {Journal of Magnetic Resonance},
-  year = {2016}
+@article{Arrabal-Campos2025,
+  author = {Arrabal-Campos, Francisco Manuel and González-Lázaro, Marta and Pérez, Juana M. and Martínez Lao, Juan A. and Fernández, Ignacio},
+  doi = {10.1016/j.eurpolymj.2024.113710},
+  issn = {00143057},
+  journal = {European Polymer Journal},
+  month = {feb},
+  pages = {113710},
+  title = {{Concentration-independent molecular weight determination of polymers via diffusion NMR: A universal approach across solvents}},
+  url = {https://linkinghub.elsevier.com/retrieve/pii/S0014305724009716},
+  volume = {226},
+  year = {2025}
 }
 
-@article{arrabal2017genetic,
-  title = {Genetic algorithm for inverse Laplace transform in NMR},
-  author = {Arrabal-Campos, F.M. and Fernández de las Nieves, I.},
-  journal = {Analytical Chemistry},
-  year = {2017}
+@article{Gonzalez-Lazaro2025,
+  author = {González-Lázaro, Marta and Viciana, Eduardo and Valdivieso, Víctor and Fernández, Ignacio and Arrabal-Campos, Francisco Manuel},
+  doi = {10.3390/math13132166},
+  issn = {2227-7390},
+  journal = {Mathematics},
+  month = {jul},
+  number = {13},
+  pages = {2166},
+  title = {{Regularized Kaczmarz Solvers for Robust Inverse Laplace Transforms}},
+  url = {https://www.mdpi.com/2227-7390/13/13/2166},
+  volume = {13},
+  year = {2025}
 }
 ```
 
@@ -314,19 +329,24 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-This work was supported by:
-- Spanish Ministry of Science and Innovation (FUNPOLYMER Project)
+This research has been funded by the State Research Agency of the Spanish Ministry of Science and Innovation (PDC2021-121248-I00, PLEC2021-007774, PID2021-126445OB-I00 and CPP2022-009967) and by the Gobierno de España MCIN/AEI/10.13039/501100011033 and Unión Europea "Next Generation EU"/PRTR.
+
+### Institutions and Partners
+
 - Universidad de Almería
 - CIAIMBITAL Research Center
 
-Industrial partners:
+### Industrial Partners
+
 - Omar Coatings
 - Sustonable
 - Bufä
 - Gazechim Composites
+- Cosentino R&D
+- Dal-Tile
 
 ## 📧 Contact
 
-- **Email**: nmrmbc@ual.es
+- **Email**: fmarrabal@ual.es
 - **Website**: [www.nmrmbc.com](https://www.nmrmbc.com)
-- **Issues**: [GitHub Issues](https://github.com/nmrmbc/funpolymer-diffusion-ai/issues)
+- **Issues**: [GitHub Issues](https://github.com/fmarrabal/funpolymer-diffusion-ai/issues)
