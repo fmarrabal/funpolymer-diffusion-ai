@@ -319,8 +319,8 @@ Please also cite the following related works:
 
 **FUNPOLYMER Project Team - Universidad de Almería**
 
-- **IP**: Ignacio Fernández de las Nieves (Catedrático)
-- **Co-IP**: Francisco M. Arrabal-Campos (Profesor Ayudante Doctor)
+- **IP**: Ignacio Fernández de las Nieves (Full professor)
+- **Co-IP**: Francisco M. Arrabal-Campos (Associate professor)
 - Research Group: [NMRMBC](https://www.nmrmbc.com)
 
 ## 📄 License
